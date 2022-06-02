@@ -1,0 +1,9 @@
+<P style="color:#FE5722; font-size:30px" face="Gill Sans" align=left><u><b>►Componentes internos y periféricos</u></b>
+<P style="color:#3FE3D7; font-size:25px" face="Gill Sans" align=left>son clave en el funcionamiento básico, como pueden ser:
+<p><A HREF="placa.html" style="color:#15BC01; font-size:25px" face="Gill Sans" align=left>Placa base → </A>
+<p><A HREF="cpu.html" style="color:#15BC01; font-size:25px" face="Gill Sans" align=left>CPU o procesador → </A>
+<p><A HREF="ram.html" style="color:#15BC01; font-size:25px" face="Gill Sans" align=left >Memoria RAM → </A>
+<p><A HREF="disco.html" style="color:#15BC01; font-size:25px" face="Gill Sans" align=left>Disco duro → </A>
+<p><A HREF="tarjeta.html" style="color:#15BC01; font-size:25px" face="Gill Sans" align=left>Tarjeta gráfica → </A>
+<p><A HREF="fuente.html" style="color:#15BC01; font-size:25px" face="Gill Sans" align=left>Fuente de alimentación → </A>
+<p><A HREF="red.html" style="color:#15BC01; font-size:25px" face="Gill Sans" align=left>Tarjeta de red → </A>
